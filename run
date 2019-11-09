@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cargo run | dot -Tsvg -o out.svg
